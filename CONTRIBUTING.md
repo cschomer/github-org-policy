@@ -21,3 +21,7 @@ Features
    git push origin feature-name
 
 Create a Pull Request against the main branch of the original repository.
+
+Code Style
+
+Please follow the coding style used throughout the project and ensure your code is well-documented.
